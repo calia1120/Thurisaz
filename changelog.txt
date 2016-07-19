@@ -1,3 +1,8 @@
+CHANGES in 1.01 ~Calia1120 (6/6/16)
+[list]
+[*]fixed some minor issues with German localization
+[/list]
+
 CHANGES in 1.0 ~Calia1120 (6/5/16)
 [list]
 [*]updated for API version 100015 (Dark Brotherhood, Update 2.4)

@@ -16,7 +16,7 @@ function TI.createMenu()
 	local options = {
 		{
 			type = "description",
-			text =  ("Thurisaz Guild Info 1.0 by Froali (updated by Garkin & |c4EFFF6Calia1120|r)"):format(TI.version),
+			text =  ("Thurisaz Guild Info 1.01 by Froali (updated by Garkin & |c4EFFF6Calia1120|r)"):format(TI.version),
 		},
 
 		{

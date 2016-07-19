@@ -1,6 +1,6 @@
 ## Title: |cEFEBBEThurisaz Guild Info|r
 ## APIVersion: 100015
-## Version: 1.0
+## Version: 1.01
 ## Author: Froali, updated by |cEFEBBEGarkin|r & |c4EFFF6Calia1120|r
 ## SavedVariables: ThI_savedVars
 ## OptionalDependsOn: LibAddonMenu-2.0

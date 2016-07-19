@@ -18,12 +18,13 @@ TI.locale["CharNameHeader"] =                                           "CHARAKT
 
 TI.locale.templates["status_change"] =                                  "<<1>> <<2>> ist jetzt <<3>>"
 TI.locale.templates["guild_left"] =                                     "<<1>> hat <<2>> verlassen"
-TI.locale.templates["guild_joined"] =                                   "<<1>> ist beigetreten<<2>>"
-TI.locale.templates["new_level"] =                                      "<<1>> <<2>> hat erreicht Stufe <<3>>"
-TI.locale.templates["new_veteran"] =                                    "<<1>> <<2>> erreicht hat <<3>> CP"
+TI.locale.templates["guild_joined"] =                                   "<<1>> ist <<2>> beigetreten"
+TI.locale.templates["new_level"] =                                      "<<1>> <<2>> hat Stufe <<3>> erreicht"
+TI.locale.templates["new_veteran"] =                                    "<<1>> <<2>> hat <<3>> CP erreicht"
 TI.locale.templates["motd_changed"] =                                   "Nachricht des Tages für <<1>> wurde geändert:\r\n<<2>>"
 TI.locale.templates["motd_startup"] =                                   "Nachricht des Tages für <<1>>:\r\n<<2>>"
 TI.locale.templates["characterName_tooltip"] =                          "Hauptcharakter:"
+
 
 --[[
 --settings strings
